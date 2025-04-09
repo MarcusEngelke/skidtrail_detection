@@ -19,6 +19,11 @@ pip install -r ./src/requirements.txt
 
 Setup R according to R. Bienz
 
+## Download Model
+
+Download the already trained model from R. Bienz and place it into the model folder.
+https://drive.google.com/file/d/1-19k1sK8yHX16nlxd5rZcjLhEjcobTg0
+
 ## Usage
 
 Execute main.R with needed arguments:
