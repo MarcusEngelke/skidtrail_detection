@@ -5,6 +5,8 @@ This repository is based on two different models for predicting skid trails in f
 
 Created by Marcus Engelke for his master thesis.
 
+The given models were improved for a more automated processing for big forest areas in Thuringia, Germany.
+
 ## Bienz Method
 
 ## Kempen Method
