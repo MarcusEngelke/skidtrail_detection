@@ -1,6 +1,0 @@
-name: dtmanalyzer
-channels:
-  - conda-forge
-dependencies:
-  - r-base=4.3.3
-  - r-renv
