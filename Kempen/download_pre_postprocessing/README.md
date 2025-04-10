@@ -13,4 +13,12 @@ These python scripts are for downloading ALS data from turingia and basic data p
 python main.py <download_path> <area_code> <data period>
 ```
 
+ ## Merge
+
+ `merge_all.py`is used for mosaicing neighboring tifs to one big tif (one for each needed (DSM, DTM, CHM, LRM, VDI). Script explains and asks for needed inputs:
+
+```bash
+python merge_all.py
+```
+
 
