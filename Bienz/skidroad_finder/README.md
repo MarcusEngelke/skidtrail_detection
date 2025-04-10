@@ -11,7 +11,7 @@ Create the needed environment:
 conda create -y -n skidroad_finder python==3.8
 ```
 
-Activate the environment through your terminal:
+Activate the environment through your terminal and install missing libraries with pip:
 ```bash
 conda activate skidroad_finder
 pip install -r ./src/requirements.txt
@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1-19k1sK8yHX16nlxd5rZcjLhEjcobTg0
 
 ## Usage
 
-Execute main.R with needed arguments:
+Execute `main.R` with needed arguments:
 ```bash
 Rscript ./src/main.R <Path to dtm(tif)> <Path to Area of Interest(shp)>
 ```
