@@ -5,4 +5,4 @@ Based on the work of R. Bienz, adapted for turingia and some improvements for us
 3 different Environments are need for this algorithm and should be installed before starting the seperate scripts:
 - dtmanalyzer (https://github.com/MarcusEngelke/skidtrail_detection/tree/main/Bienz/dtmanalyzer)
 - skidroad_detection (https://github.com/MarcusEngelke/skidtrail_detection/tree/main/Bienz/skidroad_finder)
-- download_pre_postprocessing ()
+- download_pre_postprocessing (https://github.com/MarcusEngelke/skidtrail_detection/tree/main/Bienz/download_pre_postprocessing)
