@@ -1,12 +1,15 @@
 name: download_pre_postprocessing
 channels:
-- conda-forge
-- rvtpy
+  - conda-forge
+  - rvtpy
 dependencies:
-- geopandas
-- pdal
-- python=3.7
-- rasterio
-- rvt_py
-- scikit-learn
-
+  - geopandas
+  - pdal
+  - python=3.7
+  - rasterio
+  - rvt_py
+  - scikit-learn
+  - pip
+  - pip:
+    - laspy==2.5.0
+    - laszip==0.2.3
