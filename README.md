@@ -10,3 +10,26 @@ The given models were improved for a more automated processing for big forest ar
 ## Bienz Method
 
 ## Kempen Method
+
+## Create download_pre_postprocessing environment
+
+To set up the environment, use the provided environment.yml file to create a Conda environment with all necessary dependencies for Python.
+
+```bash
+conda env create -f environment.yml
+```
+
+To activate this enviroment use:
+
+```bash
+conda activate download_pre_postprocessing
+```
+
+### Usage of download_pre_postprocessing envrionment
+- Method Bienz:
+  - Download Data
+  - Merge Data
+  - Create AoI
+- Method Kempen:
+  - Download, Merge and Preprocess Data
+  - Postprocess Data 
