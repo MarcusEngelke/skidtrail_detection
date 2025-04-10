@@ -1,6 +1,6 @@
 # Download and process data
 
-These python scripts are for downloading ALS data from turingia and basic data preperation for further analysis.
+These python scripts are for downloading ALS data from turingia and basic data preperation for further analysis. These scripts are needed to be run in the download_pre_postprocessing environment.
 
 ## Download 
 
