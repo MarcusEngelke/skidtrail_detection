@@ -36,4 +36,8 @@ conda activate download_pre_postprocessing
   - Create AoI
 - Method Kempen:
   - Download, Merge and Preprocess Data
-  - Postprocess Data 
+  - Postprocess Data
+- Accuracy Assessment
+  - CM (Accuracy, Recall, Precision, F1-Score, IoU)
+  - Length of Prediction / Reference skid trails
+  - Positional Accuracy
