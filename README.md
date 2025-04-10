@@ -5,11 +5,15 @@ This repository is based on two different models for predicting skid trails in f
 
 Created by Marcus Engelke for his master thesis.
 
-The given models were improved for a more automated processing for big forest areas in Thuringia, Germany. Both models were pretrained and are based on a U-Net architecture.
+The given models were improved for a more automated processing for big forest areas in Thuringia, Germany. Both models were pretrained and are based on a U-Net architecture. Input data is ALS data from Thuringia.
 
 ## Bienz Method
 
+Predicts skid trails with an pretrained U-Net based on an maniplulated DTM.
+
 ## Kempen Method
+
+Predicts skid trails with an pretrained U-Net based on normalised DTM, CHM, LRM and VDI.
 
 ## Create download_pre_postprocessing environment
 
