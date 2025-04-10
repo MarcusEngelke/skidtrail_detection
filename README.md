@@ -9,11 +9,11 @@ The given models were improved for a more automated processing for big forest ar
 
 ## Bienz Method
 
-Predicts skid trails with an pretrained U-Net based on a maniplulated DTM.
+Predicts skid trails with a pretrained U-Net based on a maniplulated DTM.
 
 ## Kempen Method
 
-Predicts skid trails with an pretrained U-Net based on normalised DTM, CHM, LRM and VDI.
+Predicts skid trails with a pretrained U-Net based on normalised DTM, CHM, LRM and VDI.
 
 ## Create download_pre_postprocessing environment
 
